@@ -145,3 +145,5 @@ if (age >= 18 && driversLicense == true) {
 
 
 console.log("vidare..")
+
+// ses nästa gång!! :)
